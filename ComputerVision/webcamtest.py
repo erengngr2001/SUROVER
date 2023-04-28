@@ -1,5 +1,5 @@
 #PARAMETERS
-MODEL_PATH = r"C:\\Users\\Kayra\\Desktop\\yolo8best.pt" #Path of the model
+MODEL_PATH = r"C:\\Users\\Eren\\Desktop\\yolo8best.pt" #Path of the model
 CENTER_AREA_OFFSET = 50 #Size of the center area
 
 
